@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo+ao+meu+perfil+GitHub!&center=true&width=400&height=45&font=Fira%20Code&color=38C2FF&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo+me+chamo+Eduardo!&center=true&width=400&height=45&font=Fira%20Code&color=38C2FF&vCenter=true">
 </p>
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoMascarenhas&show_icons=true&include_all_commits=true&theme=omni&hide_border=true" alt="Eduardo's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMascarenhas&layout=compact&theme=omni&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoMascarenhas&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Eduardo's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMascarenhas&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div align="center"><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduardoMascarenhas&theme=omni&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EduardoMascarenhas&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
