@@ -16,9 +16,9 @@ export default function Skills2() {
 										<svg className="text-primary-2 me-2" xmlns="http://www.w3.org/2000/svg" width={5} height={6} viewBox="0 0 5 6" fill="none">
 											<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 										</svg>
-										<span className="text-linear-4 d-flex align-items-center"> Projects </span>
+										<span className="text-linear-4 d-flex align-items-center"> Conheça </span>
 									</div>
-									<h3>My Skills</h3>
+									<h3>Minhas habilidades</h3>
 								</div>
 								<div className="container mt-8">
 									<div className="row">
@@ -102,31 +102,31 @@ export default function Skills2() {
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Front-End:</p>
-																	<span className="text-300">HTML, CSS, JavaScript, React, Angular</span>
+																	<span className="text-300">HTML, CSS, JavaScript, React, Vue</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Back-End:</p>
-																	<span className="text-300">Node.js, Express, Python, Django</span>
+																	<span className="text-300">Node.js, Express, Python</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Databases:</p>
+																	<p className="text-dark text-nowrap mb-0">Bancos de Dados:</p>
 																	<span className="text-300">MySQL, PostgreSQL, MongoDB</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Tools &amp; Platforms:</p>
-																	<span className="text-300">Git, Docker, AWS, Heroku</span>
+																	<p className="text-dark text-nowrap mb-0">Tools &amp; Plataformas:</p>
+																	<span className="text-300">Git, Docker, AWS</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Others:</p>
-																	<span className="text-300">RESTful APIs, GraphQL, Agile Methodologies</span>
+																	<p className="text-dark text-nowrap mb-0">Outros:</p>
+																	<span className="text-300">APIs RESTful, GraphQL, Scrum e outras Metodologias Ágeis</span>
 																</div>
 															</li>
 														</ul>

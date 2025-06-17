@@ -62,11 +62,6 @@ export default function Header2({
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link className="nav-link" href="#blog">
-                          Blog
-                        </Link>
-                      </li>
-                      <li className="nav-item">
                         <Link className="nav-link" href="#contact">
                           Contato
                         </Link>
