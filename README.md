@@ -28,20 +28,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-mascarenhas-b23642284/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardomsmascarenhas/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-<p align="center">
-  <a href="https://github.com/EduardoMascarenhas?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/EduardoMascarenhas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"/>
-  </a>
-  <a href="https://github.com/EduardoMascarenhas?tab=repositories&sort=stargazers">
-    <img alt="stars" title="Repositórios com estrela" src="https://img.shields.io/github/stars/EduardoMascarenhas?color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=Estrelas"/>
-  </a>
-</p>
-
-<!-- Templates de badges: https://github.com/badges/shields -->
-<!-- Contador de visitas (opcional): https://github.com/DenverCoder1/Simple-View-Counter -->
-
